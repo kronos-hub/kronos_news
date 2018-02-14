@@ -1,3 +1,3 @@
 ---
-title: Kronos News
+title: 먹는 신문
 ---
