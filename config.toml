@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "먹는 물건"
+title = "먹는 신문"
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = ""
