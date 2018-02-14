@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "먹는 신문"
+title = "Kronos News"
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = ""
@@ -41,10 +41,10 @@ paginate = 6
     footer = "&copy; [Yihui Xie](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
 
 [params.text]
-    back = "&larr; Back to Home"
+    back = "&larr; 홈으로"
     edit = "Edit this page &rarr;"
     truncated = "&hellip;"
 
-[params.banner]
-    src = "images/banner.jpg"
-    alt = ""
+# [params.banner]
+#     src = "images/banner.jpg"
+#     alt = ""
