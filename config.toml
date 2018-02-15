@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Kronos News"
+title = "농식품 정보 신문"
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = ""
